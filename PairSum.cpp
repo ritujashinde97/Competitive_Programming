@@ -1,3 +1,5 @@
+//CODESTUDIO-PAIRSUM
+
 vector<vector<int>> pairSum(vector<int> &arr, int s){
     vector<vector<int>> ans;
     for(int i=0; i<arr.size(); i++){
